@@ -47,6 +47,7 @@ interface kite{
         System.out.println("Diagonals intersect at 90 degrees");
         System.out.println("The longer diagonal always bisects the shorter diagonal");
         System.out.println("The longer diagonal bisects it's vertex angles");
+        System.out.println("Adjacent sides are equal");
     }
 }
 
